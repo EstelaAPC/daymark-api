@@ -1,0 +1,6 @@
+@Daymark.Api_HostAddress = http://localhost:5042
+
+GET {{Daymark.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
